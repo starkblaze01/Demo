@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import { Layout, Input, Button, Spin } from 'antd';
 import './App.css';
 import 'antd/dist/antd.css'; 
-import axios from 'axios';
+// import axios from 'axios';
 
 const { Header, Footer, Content } = Layout;
 class App extends Component {
